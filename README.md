@@ -1,7 +1,7 @@
 # Projeto de Machine Learning - Telemarketing Santander
 
 ## Introdução
-Este projeto faz parte do módulo de Machine Learning I, ministrado pelo professor [Alex Lima](), no qual exploramos técnicas de machine learning aplicadas a uma simulação de cenário de telemarketing do banco Santander. Nosso objetivo principal foi criar um modelo preditivo para determinar se os clientes estariam propensos a aderir a um investimento específico, com base em características dos clientes.
+Este projeto faz parte do módulo de Machine Learning I, ministrado pelo professor [Alex Lima](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAhzeasBngPFnhQ2lF2FpPrq2OQYY7HMUb4&keywords=alex%20lima&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=5ddb073a-45b1-4028-9d1b-48719fec6959&sid=KKl&spellCorrectionEnabled=true), no qual exploramos técnicas de machine learning aplicadas a uma simulação de cenário de telemarketing do banco Santander. Nosso objetivo principal foi criar um modelo preditivo para determinar se os clientes estariam propensos a aderir a um investimento específico, com base em características dos clientes.
 
 
 ## Insights Obtidos
